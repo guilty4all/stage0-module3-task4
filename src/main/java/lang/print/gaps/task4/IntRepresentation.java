@@ -2,13 +2,13 @@ package lang.print.gaps.task4;
 
 public class IntRepresentation {
     public static void main(String[] args) {
-        int charC ='c';
-        int charH = 'h';
-        int charA = 'a';
-        int charR = 'r';
-        System.out.println(charC);
-        System.out.println(charH);
-        System.out.println(charA);
-        System.out.println(charR);
+        char c = 99;
+        char h = 104;
+        char a = 97;
+        char r = 114;
+        System.out.println(c);
+        System.out.println(h);
+        System.out.println(a);
+        System.out.println(r);
     }
 }
